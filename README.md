@@ -1,6 +1,5 @@
-<h1 align="center">Web | Mobile | GenAI</h1>
+<h1 align="center">AI SOFTWARE ENGINEER</h1>
 
----
 
 Hey 👋 I'm a **Full-Stack & AI Engineer** with 8+ years of experience building LLM-powered products that think.  
 I design and deploy intelligent systems across web, mobile, and cloud — blending AI models, retrieval systems, and scalable full-stack architecture.  
