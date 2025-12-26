@@ -1,7 +1,7 @@
 <h1 align="center">AI SOFTWARE ENGINEER</h1>
 
 
-Hey 👋 I'm a **Full-Stack & AI Engineer** with 8+ years of experience building LLM-powered products that think.  
+Hey 👋 I'm a **Full-Stack & AI Engineer** with 7+ years of experience building LLM-powered products that think.  
 I design and deploy intelligent systems across web, mobile, and cloud — blending AI models, retrieval systems, and scalable full-stack architecture.  
 My work spans multi-agent systems, RAG pipelines, OCR → LLM automation, and real-time apps built with React, Next.js, FastAPI, and Python.  
 I believe great AI shouldn't just work — it should feel seamless, human, and beautifully engineered.  
